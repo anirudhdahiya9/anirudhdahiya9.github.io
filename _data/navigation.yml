@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "Projects/Publications"
+    url: /
+  - title: "Thoughts"
+    url: /life_blog/
+  - title: "Blog"
+    url: /
