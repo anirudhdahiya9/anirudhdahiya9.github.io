@@ -213,9 +213,9 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
@@ -255,7 +255,6 @@
   .hidden-links {
     position: absolute;
     top: 100%;
-    right: 0;
     margin-top: 15px;
     padding: 5px;
     border: 1px solid $border-color;
