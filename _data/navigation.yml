@@ -8,3 +8,5 @@ main:
     url: /life_blog/
   - title: "Blog"
     url: /
+  - title: "CV"
+    url: /assets/pdf/AnirudhDahiya_Resume.pdf
